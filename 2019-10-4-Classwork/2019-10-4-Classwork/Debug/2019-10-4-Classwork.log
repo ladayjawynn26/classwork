@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\Lwynn\Desktop\2019-10-4-Classwork\2019-10-4-Classwork\main.cpp(13,84): warning C4305:  'initializing': truncation from 'double' to 'float'
+C:\Users\Lwynn\Desktop\2019-10-4-Classwork\2019-10-4-Classwork\main.cpp(14,95): warning C4305:  'initializing': truncation from 'double' to 'float'
+C:\Users\Lwynn\Desktop\2019-10-4-Classwork\2019-10-4-Classwork\main.cpp(22,10): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lwynn\Desktop\2019-10-4-Classwork\2019-10-4-Classwork\main.cpp(25,34): warning C4305:  'initializing': truncation from 'double' to 'float'
+C:\Users\Lwynn\Desktop\2019-10-4-Classwork\2019-10-4-Classwork\main.cpp(26,29): warning C4305:  'initializing': truncation from 'double' to 'float'
+  2019-10-4-Classwork.vcxproj -> C:\Users\Lwynn\Desktop\2019-10-4-Classwork\Debug\2019-10-4-Classwork.exe
